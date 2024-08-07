@@ -1,5 +1,5 @@
 - id: check-import-order
   name: Check Import Order
-  entry: python check_import_order.py
+  entry: check-import-order
   language: python
   'types': [text]
