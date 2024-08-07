@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pre-commit-hooks',
-    version='v0.0.4',
+    version='v0.0.5',
     packages=find_packages(),
     entry_points={
         'console_scripts': [
