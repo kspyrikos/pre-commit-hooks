@@ -2,4 +2,4 @@
   name: Check Import Order
   entry: python check_import_order.py
   language: python
-  files: ^test_source_function\.py$
+  'types': [text]
